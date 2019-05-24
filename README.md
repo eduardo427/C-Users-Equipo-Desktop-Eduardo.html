@@ -9,6 +9,7 @@
 <body bgcolor="green" text="blue">
 <center><table width="950"><td>
 
+
 <img src="imagen4.jpg" alt="logo de la pagina"></a>
 
 <img src="steve.jpg" alt="banner central"></a>
