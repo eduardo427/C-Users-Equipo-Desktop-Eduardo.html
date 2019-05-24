@@ -11,17 +11,6 @@
 
 <img src="imagen4.jpg" alt="logo de la pagina"></a>
 
-
-<a href="edu.html">
-<img src="inicio.png"></a>
-<a href="nosotros.html">
-<img src="nosotros.png"></a>
-<a href="servicios.html">
-<img src="servicios.png"></a>
-<a href="contacto.html">
-<img src="contacto.png"></a>
-
-
 <img src="steve.jpg" alt="banner central"></a>
 
  
